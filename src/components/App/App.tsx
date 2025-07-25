@@ -5,7 +5,7 @@ import type { Votes } from "../../types/votes"
 import type { VoteType } from "../../types/votes"
 import VoteOptions from "../VoteOptions/VoteOptions"
 import VotesStats from "../VoteStats/VoteStats"
-import Notification from "../Notificatoin/Notification"
+import Notification from "../Notification/Notification"
 
 
 export default function App() {
